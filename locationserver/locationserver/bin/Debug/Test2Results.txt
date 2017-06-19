@@ -1,0 +1,17 @@
+Script Directory: T:\
+Shared drive is "U:\\data.adir.hull.ac.uk\studentshare"
+*** Stupid machine in Fenner has a setup error, but I fixed it! ****
+Starting tests Lab2Test
+Basic tests of the server are done first.
+If these are successful the server has basic funtionality for Lab 2
+Test 1 - server lookup missing user [xyzgy46882714732\r\n] :: [ERROR: no entries found\r\n] OK
+Test 2 - basic server update unknown user [xyzgy46882714732 is being tested\r\n] :: [OK\r\n] OK
+Test 3 - server update check unknown user [xyzgy46882714732\r\n] :: [is being tested\r\n] OK
+Test 4 - basic server update known user [468827 is being tested\r\n] :: [OK\r\n] OK
+Test 5 - server update check known user [468827\r\n] :: [is being tested\r\n] OK
+Test 6 - basic server update known user again [468827 is being tested2\r\n] :: [OK\r\n] OK
+Test 7 - server update check known user again [468827\r\n] :: [is being tested2\r\n] OK
+Test 8 - Server timeout [location 468827] :: [] OK
+Your server passes the basic tests and you can move to the next lab task.
+The next set of tests look for programming bugs.
+They retest the same features as before but in more detail.

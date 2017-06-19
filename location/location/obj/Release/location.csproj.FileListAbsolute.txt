@@ -1,0 +1,5 @@
+Z:\Networking\location\location\bin\Release\location.exe.config
+Z:\Networking\location\location\bin\Release\location.exe
+Z:\Networking\location\location\bin\Release\location.pdb
+Z:\Networking\location\location\obj\Release\location.exe
+Z:\Networking\location\location\obj\Release\location.pdb

@@ -1,0 +1,7 @@
+Script Directory: T:\
+Shared drive is "U:\\data.adir.hull.ac.uk\studentshare"
+Starting tests Lab4Test\..\':.       
+Testing advanced server functionality for Lab 4.\..\':.       
+If these tests pass the server is good enough to move on.\..\':.       
+Server locationserver failed to start
+Test 0 failed\..\':.        at initialisation  "C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\csc.exe

@@ -1,0 +1,6 @@
+Z:\Networking\locationserver\locationserver\bin\Release\locationserver.exe.config
+Z:\Networking\locationserver\locationserver\bin\Release\locationserver.exe
+Z:\Networking\locationserver\locationserver\bin\Release\locationserver.pdb
+Z:\Networking\locationserver\locationserver\obj\Release\locationserver.exe
+Z:\Networking\locationserver\locationserver\obj\Release\locationserver.pdb
+Z:\Networking\locationserver\locationserver\obj\Release\locationserver.csprojResolveAssemblyReference.cache
